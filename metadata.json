@@ -1,0 +1,6 @@
+{
+  "name": "Cinema Prestige",
+  "description": "A high-fidelity cinematic production experience with real-time AI spatial rendering, interactive node pipelines, and sandbox simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
